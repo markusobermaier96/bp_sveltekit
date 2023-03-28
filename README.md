@@ -14,7 +14,7 @@ just lint
 ```
 
 ## Techstack
-full-stack framework: SvelteKit
-css framework: Tailwind
-packet manager: pnpm
-process automation: justfile
+- full-stack framework: SvelteKit
+- css framework: Tailwind
+- packet manager: pnpm
+- process automation: justfile
